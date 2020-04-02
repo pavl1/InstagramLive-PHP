@@ -1,5 +1,5 @@
 {
     "require": {
-      "mgp25/instagram-php": "^4.1"
+      "pavl1/instagram-api": "^4.1"
     }
 }
